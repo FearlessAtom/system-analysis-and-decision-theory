@@ -3,3 +3,4 @@
 
 - [essay1](https://github.com/FearlessAtom/system-analysis-and-decision-theory/tree/essay1)
 - [essay2](https://github.com/FearlessAtom/system-analysis-and-decision-theory/tree/essay2)
+- [essay3](https://github.com/FearlessAtom/system-analysis-and-decision-theory/tree/essay3)
