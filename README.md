@@ -8,3 +8,4 @@
 - [essay3](https://github.com/FearlessAtom/system-analysis-and-decision-theory/tree/essay3)
 - [essay4](https://github.com/FearlessAtom/system-analysis-and-decision-theory/tree/essay4)
 - [essay5](https://github.com/FearlessAtom/system-analysis-and-decision-theory/tree/essay5)
+- [essay6](https://github.com/FearlessAtom/system-analysis-and-decision-theory/tree/essay6)
