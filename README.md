@@ -11,3 +11,4 @@
 - [essay5](https://github.com/FearlessAtom/system-analysis-and-decision-theory/tree/essay5)
 - [essay6](https://github.com/FearlessAtom/system-analysis-and-decision-theory/tree/essay6)
 - [essay7](https://github.com/FearlessAtom/system-analysis-and-decision-theory/tree/essay7)
+- [essay8](https://github.com/FearlessAtom/system-analysis-and-decision-theory/tree/essay8)
