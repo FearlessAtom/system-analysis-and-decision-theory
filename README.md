@@ -1,13 +1,1 @@
-#### Labs
-- [lab1](https://github.com/FearlessAtom/system-analysis-and-decision-theory/tree/lab1)
-- [lab2](https://github.com/FearlessAtom/system-analysis-and-decision-theory/tree/lab2)
-- [lab3](https://github.com/FearlessAtom/system-analysis-and-decision-theory/tree/lab3)
-- [lab4](https://github.com/FearlessAtom/system-analysis-and-decision-theory/tree/lab4)
-#### Essays
-- [essay1](https://github.com/FearlessAtom/system-analysis-and-decision-theory/tree/essay1)
-- [essay2](https://github.com/FearlessAtom/system-analysis-and-decision-theory/tree/essay2)
-- [essay3](https://github.com/FearlessAtom/system-analysis-and-decision-theory/tree/essay3)
-- [essay4](https://github.com/FearlessAtom/system-analysis-and-decision-theory/tree/essay4)
-- [essay5](https://github.com/FearlessAtom/system-analysis-and-decision-theory/tree/essay5)
-- [essay6](https://github.com/FearlessAtom/system-analysis-and-decision-theory/tree/essay6)
-- [essay7](https://github.com/FearlessAtom/system-analysis-and-decision-theory/tree/essay7)
+### [main branch](https://github.com/FearlessAtom/system-analysis-and-decision-theory)
