@@ -5,6 +5,7 @@
 - [lab4](https://github.com/FearlessAtom/system-analysis-and-decision-theory/tree/lab4)
 - [lab5](https://github.com/FearlessAtom/system-analysis-and-decision-theory/tree/lab5)
 - [lab6](https://github.com/FearlessAtom/system-analysis-and-decision-theory/tree/lab6)
+- [lab7](https://github.com/FearlessAtom/system-analysis-and-decision-theory/tree/lab7)
 #### Essays
 - [essay1](https://github.com/FearlessAtom/system-analysis-and-decision-theory/tree/essay1)
 - [essay2](https://github.com/FearlessAtom/system-analysis-and-decision-theory/tree/essay2)
